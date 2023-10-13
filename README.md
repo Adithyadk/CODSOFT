@@ -11,7 +11,7 @@ You'll find various projects organized into separate directories. To dive into t
 
 1. **Project 1:** [ Simple Calculator ](https://github.com/Adithyadk/CODSOFT/tree/main/Task%201%20%3A%20Simple%20Calculator)
 2. **Project 2:** [ To-Do List ](https://github.com/Adithyadk/CODSOFT/tree/main/Task%202%20:%20To-Do%20List)
-3. **Project 3:** [Project 3](link-to-project3)
+3. **Project 3:** [ Tic-Tac-Toe Game ](https://github.com/Adithyadk/CODSOFT/tree/main/Task%203%20:%20Tic-Tac-Toe)
 
 Each project directory has its own README with specific instructions.
 
