@@ -1,7 +1,5 @@
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe](tic_tac_toe.png)
-
 This is a simple console-based Tic-Tac-Toe game that allows two players to play against each other.
 
 ## Game Overview
